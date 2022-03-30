@@ -10,3 +10,14 @@ This project would not have been possible without the awesome community of baseb
 The Lahman data set contains a csv file titled `HallOfFame.csv`.
 At the time of writing, the most recent data available from the Lahman dataset includes statistics from the 2021 season.
 The `HallOfFame.csv` only contains data up to 2018, making it slightly out of date.
+
+# Installation
+Install dependencies by running:
+```
+pip install -r requirements.txt
+```
+
+Run the jupyter notebook server by running:
+```
+jupyter notebook
+```
